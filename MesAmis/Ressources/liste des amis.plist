@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>nom</key>
+		<string>Paul</string>
+		<key>photo</key>
+		<string>image01.png</string>
+		<key>dette</key>
+		<string>10</string>
+	</dict>
+	<dict>
+		<key>nom</key>
+		<string>Jean</string>
+		<key>photo</key>
+		<string>image02.png</string>
+		<key>dette</key>
+		<string>25</string>
+	</dict>
+	<dict>
+		<key>nom</key>
+		<string>Bozo</string>
+		<key>photo</key>
+		<string>image03.png</string>
+		<key>dette</key>
+		<string>30</string>
+	</dict>
+	<dict>
+		<key>nom</key>
+		<string>Toto</string>
+		<key>photo</key>
+		<string>image04.png</string>
+		<key>dette</key>
+		<string>33</string>
+	</dict>
+	<dict>
+		<key>nom</key>
+		<string>Le petit</string>
+		<key>photo</key>
+		<string>image05.png</string>
+		<key>dette</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>nom</key>
+		<string>Le gros</string>
+		<key>photo</key>
+		<string>image06.png</string>
+		<key>dette</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>nom</key>
+		<string>Le grand</string>
+		<key>photo</key>
+		<string>image07.png</string>
+		<key>dette</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>nom</key>
+		<string>Le vert</string>
+		<key>photo</key>
+		<string>image08.png</string>
+		<key>dette</key>
+		<string>0</string>
+	</dict>
+	<dict>
+		<key>nom</key>
+		<string>Le pas fin</string>
+		<key>photo</key>
+		<string>image09.png</string>
+		<key>dette</key>
+		<string>200</string>
+	</dict>
+	<dict>
+		<key>nom</key>
+		<string>Le vite</string>
+		<key>photo</key>
+		<string>image10.png</string>
+		<key>dette</key>
+		<string>66.66</string>
+	</dict>
+	<dict>
+		<key>nom</key>
+		<string>Le lent</string>
+		<key>photo</key>
+		<string>image11.png</string>
+		<key>dette</key>
+		<string>0</string>
+	</dict>
+</array>
+</plist>
